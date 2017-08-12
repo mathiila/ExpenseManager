@@ -1,0 +1,1 @@
+This project to manage the day to day Expenses. The development in progress.
